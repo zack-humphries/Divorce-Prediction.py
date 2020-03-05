@@ -2,16 +2,15 @@
 I will be using different kinds of Machine Learning algorithms to predict whether based off a list of questions if the couple is divorced or not
 
 # Zachary Humphries
-# ### GT-4801B
-# ### Spring 2020
-# 
-# # Divorce Dataset
-# 
-# 
-# With this dataset, I wanted to isolate which questions strongly correlate to whether the couple is married or not. I included a heatmap, showing all of the different questions that correlate to one another. I also included a function, which would isolate the strong correlations for the "Class" category. Finally I created a loop which visually shows how the different types couples answer to the questions. I plan on making subplots for the loop in the future to speed up the loading time.
+GT-4801B
+Spring 2020
 
-# # Attribute Information
-# 
+# Divorce Dataset 
+With this dataset, I wanted to isolate which questions strongly correlate to whether the couple is married or not. I included a heatmap, showing all of the different questions that correlate to one another. I also included a function, which would isolate the strong correlations for the "Class" category. Finally I created a loop which visually shows how the different types couples answer to the questions. I plan on making subplots for the loop in the future to speed up the loading time.
+
+# Attribute Information
+Information is a range from Strongly Disagree to Strongly Agree
+
 # 1. If one of us apologizes when our discussion deteriorates, the discussion ends.
 # 2. I know we can ignore our differences, even if things get hard sometimes.
 # 3. When we need it, we can take our discussions with my spouse from the beginning and correct it.
